@@ -6,4 +6,5 @@
 
 ## [SpringBoot](/Spring)
 [Bean](/SpringBoot/Bean.md)
-[DI/IoC)(/SpringBoot/DI-IoC.md)
+
+[DI/IoC](/SpringBoot/DI-IoC.md)
