@@ -5,4 +5,4 @@
 [Dependency](/Java/Dependency.md)
 
 # [SpringBoot](/Spring)
-[Bean](/SpringBoot/Bean 등록.md)
+[Bean](/SpringBoot/Bean.md)
