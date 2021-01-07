@@ -4,6 +4,8 @@
 ## Java
 [Dependency](/Java/Dependency.md)
 
+[Interface](/Java/Interface.md)
+
 ## SpringBoot
 [Bean](/SpringBoot/Bean.md)
 
