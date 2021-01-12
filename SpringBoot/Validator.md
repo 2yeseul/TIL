@@ -1,10 +1,3 @@
----
-title: 'Validator, @InitBinder'
-date: 2021-01-01 00:00:00
-category: ''
-draft: false
----  
-
 ## 폼에서 에러가 발생할 때
 
 ```java

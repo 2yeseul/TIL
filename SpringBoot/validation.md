@@ -1,10 +1,3 @@
----
-title: '제약 검증 기능 사용'
-date: 2021-01-12 11:06:00
-category: 'SpringBoot'
-draft: false
----  
-
 ```java
 import lombok.Data;
 import org.hibernate.validator.constraints.Length;
