@@ -12,3 +12,7 @@
 [DI/IoC](/SpringBoot/DI-IoC.md)
 
 [AOP - (1)](/SpringBoot/AOP_1.md)
+
+## JPA
+[Transaction](/JPA/Transaction.md)
+[Entity-Lifecycle](/JPA/Entity-Lifecycle.md)
