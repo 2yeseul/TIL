@@ -6,6 +6,8 @@
 
 [Interface](/Java/Interface.md)
 
+[Thread](/Java/Thread.md)
+
 ## SpringBoot
 [Bean](/SpringBoot/Bean.md)
 
