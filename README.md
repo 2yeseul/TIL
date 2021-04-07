@@ -11,7 +11,7 @@ _34 TILs and counting..._
 ### 2 most recent TILs
 
 - [List 정렬](Java/List_Sort.md) - Wed Mar 31 22:24:10 2021 +0900
-- [1.](Etc/2021.03.29.md) - Mon Mar 29 02:01:34 2021 +0900
+- [그냥 일기..ㅎㅎ](Etc/2021.03.29.md) - Mon Mar 29 02:01:34 2021 +0900
 
 ### Categories
 
@@ -24,19 +24,19 @@ _34 TILs and counting..._
 - [SpringBoot](#SpringBoot)
 
 ### [Baekjoon](#Baekjoon)
-- [# 문제](Baekjoon/Q1463.md)
-- [```cpp](Baekjoon/Q1697.md)
-- [# 문제](Baekjoon/Q1926.md)
-- [# 문제](Baekjoon/Q2178.md)
-- [](Baekjoon/Q2579.md)
-- [# 문제](Baekjoon/Q4179.md)
-- [---](Baekjoon/Q7576.md)
+- [Q1463](Baekjoon/Q1463.md)
+- [Q1697](Baekjoon/Q1697.md)
+- [Q1926](Baekjoon/Q1926.md)
+- [Q2178](Baekjoon/Q2178.md)
+- [Q2597](Baekjoon/Q2579.md)
+- [Q4179](Baekjoon/Q4179.md)
+- [Q7576](Baekjoon/Q7576.md)
 
 ### [C++](#C++)
-- [```cpp](C++/pair.md)
+- [pair](C++/pair.md)
 
 ### [Etc](#Etc)
-- [1.](Etc/2021.03.29.md)
+- [그냥 일기..ㅎㅎ](Etc/2021.03.29.md)
 - [AmazonS3BeanError](Etc/AmazonS3BeanError.md)
 
 ### [JPA](#JPA)
