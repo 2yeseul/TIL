@@ -1,4 +1,4 @@
-# Bean 등록
+# Bean
 
 # Bean의 정의
 

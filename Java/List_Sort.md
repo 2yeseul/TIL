@@ -1,9 +1,4 @@
----
-title: '객체의 특정 필드 기준으로 List 정렬하는 방법'
-date: 2021-03-31 22:23:00
-category: 'Java'
-draft: false
----  
+# List 정렬
 
 # 객체의 특정 필드 기준으로 List 정렬하는 방법
 

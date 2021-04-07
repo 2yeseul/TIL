@@ -1,3 +1,5 @@
+# AmazonS3BeanError
+
 # 테스트 시 Error creating bean with name 'amazonS3' 
 
 ## 우선적으로 체크해야할 부분

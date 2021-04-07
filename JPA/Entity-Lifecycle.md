@@ -1,3 +1,5 @@
+# 엔티티 생명주기 
+
 # 엔티티 매니저 팩토리와 엔티티 매니저
 
 ![https://media.vlpt.us/post-images/conatuseus/38dac7b0-cff5-11e9-825d-1977adc755dc/image.png](https://media.vlpt.us/post-images/conatuseus/38dac7b0-cff5-11e9-825d-1977adc755dc/image.png)

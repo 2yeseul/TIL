@@ -1,3 +1,5 @@
+# [error] object references an unsaved transient instance - save the transient instance before flushing
+
 오류 코드
 ```
 object references an unsaved transient instance - save the transient instance before flushing

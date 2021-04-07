@@ -1,3 +1,5 @@
+# 회원정보 Service 만들기 
+
 - 회원정보저장
 - 인증 이메일 발송
 - 처리 후 첫 페이지로 리다이렉트 (Post-Redirect-Get 패턴)
@@ -5,15 +7,6 @@
 비즈니스 로직 처리를 해줄 `AccountService`를 만든다.
 
 ```java
-import com.studyolle.domain.Account;
-import lombok.RequiredArgsConstructor;
-import org.springframework.mail.SimpleMailMessage;
-import org.springframework.mail.javamail.JavaMailSender;
-import org.springframework.security.crypto.password.PasswordEncoder;
-import org.springframework.stereotype.Service;
-
-import javax.validation.Valid;
-
 @Service
 @RequiredArgsConstructor
 public class AccountService {

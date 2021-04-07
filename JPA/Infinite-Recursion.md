@@ -1,3 +1,4 @@
+# [error] Infinite Recursion 오류 
 
 ## 오류 코드
 ```
