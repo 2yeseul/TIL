@@ -13,7 +13,7 @@ _34 TILs and counting..._
 
 ### 2 most recent TILs
 
-- [---](Java/List_Sort.md) - Wed Mar 31 22:24:10 2021 +0900
+- [List 정렬](Java/List_Sort.md) - Wed Mar 31 22:24:10 2021 +0900
 - [1.](Etc/2021.03.29.md) - Mon Mar 29 02:01:34 2021 +0900
 
 ### Categories
@@ -40,25 +40,25 @@ _34 TILs and counting..._
 
 ### [Etc](#Etc)
 - [1.](Etc/2021.03.29.md)
-- [테스트 시 Error creating bean with name 'amazonS3'](Etc/AmazonS3BeanError.md)
+- [AmazonS3BeanError](Etc/AmazonS3BeanError.md)
 
 ### [JPA](#JPA)
-- [오류 코드](JPA/Cascade.md)
-- [엔티티 매니저 팩토리와 엔티티 매니저](JPA/Entity-Lifecycle.md)
-- [](JPA/Infinite-Recursion.md)
-- [오류 코드](JPA/MultipleBagFetchException.md)
-- [](JPA/Pagination.md)
+- [[error] object references an unsaved transient instance - save the transient instance before flushing](JPA/Cascade.md)
+- [엔티티 생명주기](JPA/Entity-Lifecycle.md)
+- [[error] Infinite Recursion 오류](JPA/Infinite-Recursion.md)
+- [Multiplebag Fetch Exception](JPA/MultipleBagFetchException.md)
+- [Pagination](JPA/Pagination.md)
 - [Transaction](JPA/Transaction.md)
-- [`JpaRepository의` `findAll` 사용 시 `sort` 하는 방법](JPA/findAllSort.md)
-- [JPA의 update는 기본적으로 모든 컬럼을 업데이트 하도록 작동된다.](JPA/update.md)
+- [JpaRepository의 findAll 사용 시, sort하는 방법](JPA/findAllSort.md)
+- [JPA - update](JPA/update.md)
 
 ### [Java](#Java)
-- [커스텀 어노테이션](Java/Annotation.md)
-- [](Java/Dependency.md)
-- [인터페이스](Java/Interface.md)
-- [](Java/Lamda.md)
-- [---](Java/List_Sort.md)
-- [- [Thread](#thread)](Java/Thread.md)
+- [Annotation](Java/Annotation.md)
+- [Dependency](Java/Dependency.md)
+- [Interface](Java/Interface.md)
+- [Lamda](Java/Lamda.md)
+- [List 정렬](Java/List_Sort.md)
+- [Thread](Java/Thread.md)
 
 ### [MySQL](#MySQL)
 - [MySQL에서 `FOREIGN KEY` 설정된 table `TRUNCATE` 하기](MySQL/truncate-foreign-key.md)
@@ -66,13 +66,13 @@ _34 TILs and counting..._
 ### [SpringBoot](#SpringBoot)
 - [AOP - (1)](SpringBoot/AOP_1.md)
 - [회원가입 컨트롤러 만들기](SpringBoot/AccountController.md)
-- [- 회원정보저장](SpringBoot/AccountFormSubmit.md)
-- [Bean 등록](SpringBoot/Bean.md)
+- [회원정보 Service 만들기](SpringBoot/AccountFormSubmit.md)
+- [Bean](SpringBoot/Bean.md)
 - [DI / IoC](SpringBoot/DI-IoC.md)
-- [](SpringBoot/RememberMe.md)
-- [# 폼에서 에러가 발생할 때](SpringBoot/Validator.md)
-- [```java](SpringBoot/WebSecurityConfig.md)
-- [```java](SpringBoot/validation.md)
+- [Remember Me - 로그인 상태 유지](SpringBoot/RememberMe.md)
+- [Validator](SpringBoot/Validator.md)
+- [WebSecurityConfig](SpringBoot/WebSecurityConfig.md)
+- [Validation](SpringBoot/validation.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 [2]: https://github.com/jbranchaud/til
