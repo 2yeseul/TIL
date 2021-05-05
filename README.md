@@ -4,7 +4,7 @@
 오늘 배운 것들을 정리하는 곳 ✨
 
 
-_34 TILs and counting..._
+_35 TILs and counting..._
 
 ---
 
@@ -38,6 +38,7 @@ _34 TILs and counting..._
 ### [Etc](#Etc)
 - [그냥 일기..ㅎㅎ](Etc/2021.03.29.md)
 - [AmazonS3BeanError](Etc/AmazonS3BeanError.md)
+- [Data Structure](Etc/DataStructure.md)
 
 ### [JPA](#JPA)
 - [[error] object references an unsaved transient instance - save the transient instance before flushing](JPA/Cascade.md)
