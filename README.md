@@ -4,20 +4,21 @@
 오늘 배운 것들을 정리하는 곳 ✨
 
 
-_36 TILs and counting..._
+_37 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [Commit author 변경과 config user 관리](Git/config_user.md) - Thu May 20 10:41:59 2021 +0900
 - [JWT](Server/JWT.md) - Thu May 20 09:24:13 2021 +0900
-- [List 정렬](Java/List_Sort.md) - Wed Mar 31 22:24:10 2021 +0900
 
 ### Categories
 
 - [Baekjoon](#Baekjoon)
 - [C++](#C++)
 - [Etc](#Etc)
+- [Git](#Git)
 - [JPA](#JPA)
 - [Java](#Java)
 - [MySQL](#MySQL)
@@ -40,6 +41,9 @@ _36 TILs and counting..._
 - [그냥 일기..ㅎㅎ](Etc/2021.03.29.md)
 - [AmazonS3BeanError](Etc/AmazonS3BeanError.md)
 - [Data Structure](Etc/DataStructure.md)
+
+### [Git](#Git)
+- [Commit author 변경과 config user 관리](Git/config_user.md)
 
 ### [JPA](#JPA)
 - [[error] object references an unsaved transient instance - save the transient instance before flushing](JPA/Cascade.md)
