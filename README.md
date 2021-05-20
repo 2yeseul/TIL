@@ -4,14 +4,14 @@
 오늘 배운 것들을 정리하는 곳 ✨
 
 
-_35 TILs and counting..._
+_36 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [JWT](Server/JWT.md) - Thu May 20 09:24:13 2021 +0900
 - [List 정렬](Java/List_Sort.md) - Wed Mar 31 22:24:10 2021 +0900
-- [그냥 일기..ㅎㅎ](Etc/2021.03.29.md) - Mon Mar 29 02:01:34 2021 +0900
 
 ### Categories
 
@@ -21,6 +21,7 @@ _35 TILs and counting..._
 - [JPA](#JPA)
 - [Java](#Java)
 - [MySQL](#MySQL)
+- [Server](#Server)
 - [SpringBoot](#SpringBoot)
 
 ### [Baekjoon](#Baekjoon)
@@ -60,6 +61,9 @@ _35 TILs and counting..._
 
 ### [MySQL](#MySQL)
 - [MySQL에서 `FOREIGN KEY` 설정된 table `TRUNCATE` 하기](MySQL/truncate-foreign-key.md)
+
+### [Server](#Server)
+- [JWT](Server/JWT.md)
 
 ### [SpringBoot](#SpringBoot)
 - [AOP - (1)](SpringBoot/AOP_1.md)
