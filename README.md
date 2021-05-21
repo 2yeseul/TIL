@@ -4,14 +4,14 @@
 오늘 배운 것들을 정리하는 곳 ✨
 
 
-_38 TILs and counting..._
+_39 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [Github action을 통한 Spring boot 자동 deploy](DevOps/GitHubAction.md) - Fri May 21 14:46:58 2021 +0900
 - [CI / CD](DevOps/CI_CD.md) - Fri May 21 11:59:18 2021 +0900
-- [Commit author 변경과 config user 관리](Git/config_user.md) - Thu May 20 10:41:59 2021 +0900
 
 ### Categories
 
@@ -40,6 +40,7 @@ _38 TILs and counting..._
 
 ### [DevOps](#DevOps)
 - [CI / CD](DevOps/CI_CD.md)
+- [Github action을 통한 Spring boot 자동 deploy](DevOps/GitHubAction.md)
 
 ### [Etc](#Etc)
 - [그냥 일기..ㅎㅎ](Etc/2021.03.29.md)
