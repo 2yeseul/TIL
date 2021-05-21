@@ -4,14 +4,14 @@
 오늘 배운 것들을 정리하는 곳 ✨
 
 
-_39 TILs and counting..._
+_40 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [AWS CodeDeploy](DevOps/CodeDeploy.md) - Fri May 21 17:56:58 2021 +0900
 - [Github action을 통한 Spring boot 자동 deploy](DevOps/GitHubAction.md) - Fri May 21 14:46:58 2021 +0900
-- [CI / CD](DevOps/CI_CD.md) - Fri May 21 11:59:18 2021 +0900
 
 ### Categories
 
@@ -40,6 +40,7 @@ _39 TILs and counting..._
 
 ### [DevOps](#DevOps)
 - [CI / CD](DevOps/CI_CD.md)
+- [AWS CodeDeploy](DevOps/CodeDeploy.md)
 - [Github action을 통한 Spring boot 자동 deploy](DevOps/GitHubAction.md)
 
 ### [Etc](#Etc)
