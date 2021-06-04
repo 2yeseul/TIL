@@ -4,7 +4,7 @@
 오늘 배운 것들을 정리하는 곳 ✨
 
 
-_40 TILs and counting..._
+_41 TILs and counting..._
 
 ---
 
@@ -80,6 +80,7 @@ _40 TILs and counting..._
 - [회원가입 컨트롤러 만들기](SpringBoot/AccountController.md)
 - [회원정보 Service 만들기](SpringBoot/AccountFormSubmit.md)
 - [Bean](SpringBoot/Bean.md)
+- [Conditional Validation](SpringBoot/Conditional_Validation.md)
 - [DI / IoC](SpringBoot/DI-IoC.md)
 - [Remember Me - 로그인 상태 유지](SpringBoot/RememberMe.md)
 - [Validator](SpringBoot/Validator.md)
