@@ -4,14 +4,14 @@
 오늘 배운 것들을 정리하는 곳 ✨
 
 
-_41 TILs and counting..._
+_42 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [@ControllerAdvice](SpringBoot/ControllerAdvice.md) - Mon Jun 14 17:22:55 2021 +0900
 - [AWS CodeDeploy](DevOps/CodeDeploy.md) - Fri May 21 17:56:58 2021 +0900
-- [Github action을 통한 Spring boot 자동 deploy](DevOps/GitHubAction.md) - Fri May 21 14:46:58 2021 +0900
 
 ### Categories
 
@@ -81,6 +81,7 @@ _41 TILs and counting..._
 - [회원정보 Service 만들기](SpringBoot/AccountFormSubmit.md)
 - [Bean](SpringBoot/Bean.md)
 - [Conditional Validation](SpringBoot/Conditional_Validation.md)
+- [@ControllerAdvice](SpringBoot/ControllerAdvice.md)
 - [DI / IoC](SpringBoot/DI-IoC.md)
 - [Remember Me - 로그인 상태 유지](SpringBoot/RememberMe.md)
 - [Validator](SpringBoot/Validator.md)
