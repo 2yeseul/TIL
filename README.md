@@ -4,14 +4,14 @@
 오늘 배운 것들을 정리하는 곳 ✨
 
 
-_42 TILs and counting..._
+_43 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [[자바 ORM 표준 JPA 프로그래밍] Entity 매핑](JPA/EntityMapping.md) - Wed Jun 16 09:11:53 2021 +0900
 - [@ControllerAdvice](SpringBoot/ControllerAdvice.md) - Mon Jun 14 17:22:55 2021 +0900
-- [AWS CodeDeploy](DevOps/CodeDeploy.md) - Fri May 21 17:56:58 2021 +0900
 
 ### Categories
 
@@ -54,6 +54,7 @@ _42 TILs and counting..._
 ### [JPA](#JPA)
 - [[error] object references an unsaved transient instance - save the transient instance before flushing](JPA/Cascade.md)
 - [엔티티 생명주기](JPA/Entity-Lifecycle.md)
+- [[자바 ORM 표준 JPA 프로그래밍] Entity 매핑](JPA/EntityMapping.md)
 - [[error] Infinite Recursion 오류](JPA/Infinite-Recursion.md)
 - [Multiplebag Fetch Exception](JPA/MultipleBagFetchException.md)
 - [Pagination](JPA/Pagination.md)
