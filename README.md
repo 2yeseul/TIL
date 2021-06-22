@@ -4,20 +4,21 @@
 오늘 배운 것들을 정리하는 곳 ✨
 
 
-_43 TILs and counting..._
+_45 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
-- [[자바 ORM 표준 JPA 프로그래밍] Entity 매핑](JPA/EntityMapping.md) - Wed Jun 16 09:11:53 2021 +0900
-- [@ControllerAdvice](SpringBoot/ControllerAdvice.md) - Mon Jun 14 17:22:55 2021 +0900
+- [Effective Java](EffectiveJava/main.md) - Tue Jun 22 09:24:51 2021 +0900
+- [01. 생성자 대신 정적 패터리 메서드를 고려하라](EffectiveJava/ch01.md) - Tue Jun 22 09:24:51 2021 +0900
 
 ### Categories
 
 - [Baekjoon](#Baekjoon)
 - [C++](#C++)
 - [DevOps](#DevOps)
+- [EffectiveJava](#EffectiveJava)
 - [Etc](#Etc)
 - [Git](#Git)
 - [JPA](#JPA)
@@ -42,6 +43,10 @@ _43 TILs and counting..._
 - [CI / CD](DevOps/CI_CD.md)
 - [AWS CodeDeploy](DevOps/CodeDeploy.md)
 - [Github action을 통한 Spring boot 자동 deploy](DevOps/GitHubAction.md)
+
+### [EffectiveJava](#EffectiveJava)
+- [01. 생성자 대신 정적 패터리 메서드를 고려하라](EffectiveJava/ch01.md)
+- [Effective Java](EffectiveJava/main.md)
 
 ### [Etc](#Etc)
 - [그냥 일기..ㅎㅎ](Etc/2021.03.29.md)
