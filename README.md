@@ -4,7 +4,7 @@
 오늘 배운 것들을 정리하는 곳 ✨
 
 
-_45 TILs and counting..._
+_44 TILs and counting..._
 
 ---
 
@@ -49,7 +49,6 @@ _45 TILs and counting..._
 - [Effective Java](EffectiveJava/main.md)
 
 ### [Etc](#Etc)
-- [그냥 일기..ㅎㅎ](Etc/2021.03.29.md)
 - [AmazonS3BeanError](Etc/AmazonS3BeanError.md)
 - [Data Structure](Etc/DataStructure.md)
 
