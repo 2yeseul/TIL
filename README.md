@@ -10,7 +10,7 @@ _45 TILs and counting..._
 
 ### 2 most recent TILs
 
-- [[토비의 스프링 3.1] 스프링 IoC](토비의 스프링/Spring_IoC.md) - Mon Jun 28 13:22:25 2021 +0900
+- [[토비의 스프링 3.1] 스프링 IoC](Toby_Spring/Spring_IoC.md) - Mon Jun 28 13:25:30 2021 +0900
 - [01. 생성자 대신 정적 패터리 메서드를 고려하라](EffectiveJava/ch01.md) - Tue Jun 22 09:24:51 2021 +0900
 
 ### Categories
@@ -26,7 +26,7 @@ _45 TILs and counting..._
 - [MySQL](#MySQL)
 - [Server](#Server)
 - [SpringBoot](#SpringBoot)
-- [토비의 스프링](#토비의 스프링)
+- [Toby_Spring](#Toby_Spring)
 
 ### [Baekjoon](#Baekjoon)
 - [Q1463](Baekjoon/Q1463.md)
@@ -94,8 +94,8 @@ _45 TILs and counting..._
 - [WebSecurityConfig](SpringBoot/WebSecurityConfig.md)
 - [Validation](SpringBoot/validation.md)
 
-### [토비의 스프링](#토비의 스프링)
-- [[토비의 스프링 3.1] 스프링 IoC](토비의 스프링/Spring_IoC.md)
+### [Toby_Spring](#Toby_Spring)
+- [[토비의 스프링 3.1] 스프링 IoC](Toby_Spring/Spring_IoC.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 [2]: https://github.com/jbranchaud/til
