@@ -4,14 +4,14 @@
 오늘 배운 것들을 정리하는 곳 ✨
 
 
-_45 TILs and counting..._
+_48 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
-- [[토비의 스프링 3.1] 스프링 IoC](Toby_Spring/Spring_IoC.md) - Mon Jun 28 13:25:30 2021 +0900
-- [01. 생성자 대신 정적 패터리 메서드를 고려하라](EffectiveJava/ch01.md) - Tue Jun 22 09:24:51 2021 +0900
+- [토비의 스프링](Toby_Spring/main.md) - Wed Jun 30 22:40:14 2021 +0900
+- [리팩터링: 첫 번째 예시](Refactoring/ch01.md) - Wed Jun 30 22:40:14 2021 +0900
 
 ### Categories
 
@@ -24,6 +24,7 @@ _45 TILs and counting..._
 - [JPA](#JPA)
 - [Java](#Java)
 - [MySQL](#MySQL)
+- [Refactoring](#Refactoring)
 - [Server](#Server)
 - [SpringBoot](#SpringBoot)
 - [Toby_Spring](#Toby_Spring)
@@ -78,6 +79,10 @@ _45 TILs and counting..._
 ### [MySQL](#MySQL)
 - [MySQL에서 `FOREIGN KEY` 설정된 table `TRUNCATE` 하기](MySQL/truncate-foreign-key.md)
 
+### [Refactoring](#Refactoring)
+- [리팩터링: 첫 번째 예시](Refactoring/ch01.md)
+- [리팩터링](Refactoring/main.md)
+
 ### [Server](#Server)
 - [JWT](Server/JWT.md)
 
@@ -96,6 +101,7 @@ _45 TILs and counting..._
 
 ### [Toby_Spring](#Toby_Spring)
 - [[토비의 스프링 3.1] 스프링 IoC](Toby_Spring/Spring_IoC.md)
+- [토비의 스프링](Toby_Spring/main.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 [2]: https://github.com/jbranchaud/til
