@@ -4,7 +4,7 @@
 오늘 배운 것들을 정리하는 곳 ✨
 
 
-_49 TILs and counting..._
+_51 TILs and counting..._
 
 ---
 
@@ -24,6 +24,7 @@ _49 TILs and counting..._
 - [JPA](#JPA)
 - [Java](#Java)
 - [MySQL](#MySQL)
+- [QueryDSL](#QueryDSL)
 - [Refactoring](#Refactoring)
 - [Server](#Server)
 - [SpringBoot](#SpringBoot)
@@ -65,6 +66,7 @@ _49 TILs and counting..._
 - [[error] Infinite Recursion 오류](JPA/Infinite-Recursion.md)
 - [Multiplebag Fetch Exception](JPA/MultipleBagFetchException.md)
 - [Pagination](JPA/Pagination.md)
+- [[자바 ORM 표준 JPA 프로그래밍] 연관관계 매핑 - 기초](JPA/RelationalMapping.md)
 - [Transaction](JPA/Transaction.md)
 - [JpaRepository의 findAll 사용 시, sort하는 방법](JPA/findAllSort.md)
 - [JPA - update](JPA/update.md)
@@ -79,6 +81,9 @@ _49 TILs and counting..._
 
 ### [MySQL](#MySQL)
 - [MySQL에서 `FOREIGN KEY` 설정된 table `TRUNCATE` 하기](MySQL/truncate-foreign-key.md)
+
+### [QueryDSL](#QueryDSL)
+- [QueryDSL (1)](QueryDSL/QueryDSL_basic_1.md)
 
 ### [Refactoring](#Refactoring)
 - [리팩터링: 첫 번째 예시](Refactoring/ch01.md)
