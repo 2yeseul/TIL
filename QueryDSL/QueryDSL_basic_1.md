@@ -71,7 +71,7 @@ public class PostQueryRepository  {
 }
 ```  
 
-처음에 인텔리제이에서 QClass를 자동으로 import 해주지 않아 조금 애를 먹었는데.. 그냥 수동으로 import 시켜 주었다. generate된 경로의 객체를 static으로 import 시키면, 해당 엔티티를 주입받아 사용할 수 있다. 
+처음에 인텔리제이에서 QClass를 자동으로 import 해주지 않아 조금 애를 먹었는데.. 그냥 수동으로 import 시켜 주었다. generate된 경로의 객체를 static으로 import 시키면, 해당 클래스를 주입받아 사용할 수 있다. 
 
 
 출처
