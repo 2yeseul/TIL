@@ -10,47 +10,69 @@ Java의 표준 ORM인 JPA를 통해 개발자는 복잡한 설정이나 일일�
 QueryDSL은 문자가 아닌 코드를 통해 안전하게 쿼리를 작성할 수 있고, 복잡한 동적 쿼리를 깔끔하게 작성할 수 있다. 또한 쿼리 작성 과정에서 코드 완성 기능을 사용하여 쿼리를 더 빠르고 안전하게 만들 수 있다. 
 
 # 1. Gradle 설정 
-## 1-1. plugin 설정
-``` java
-plugins {
-    // ...
-    id "com.ewerk.gradle.plugins.querydsl" version "1.0.10"
-}
-``` 
 
-## 1-2. 의존성 추가 
+## 1-1. 의존성 추가 
 ``` java
 dependencies {
-    implementation group: 'com.querydsl', name: 'querydsl-jpa', version: '4.4.0'
-
+    // QueryDSL
+    implementation "com.querydsl:querydsl-jpa:${queryDslVersion}"
+    annotationProcessor(
+            "javax.persistence:javax.persistence-api",
+            "javax.annotation:javax.annotation-api",
+            "com.querydsl:querydsl-apt:${queryDslVersion}:jpa")
 }
 ```
 
-## 1-3. QueryDSL이 생성하는 QClass 경로 생성
+## 1-2. QueryDSL이 생성하는 QClass 경로 생성
 QueryDSL이 생성하는 QClass들의 경로를 설정해야 한다. 
 ``` java 
-def querydslDir = "$buildDir/generated/querydsl"
-
-querydsl {
-    jpa = true
-    querydslSourcesDir = querydslDir
-}
-
+def generated='src/main/generated'
 sourceSets {
-    main.java.srcDir querydslDir
+    main.java.srcDirs += [ generated ]
 }
 
-configurations {
-    querydsl.extendsFrom compileClasspath
-}
-
-compileQuerydsl {
-    options.annotationProcessorPath = configurations.querydsl
+tasks.withType(JavaCompile) {
+    options.annotationProcessorGeneratedSourcesDirectory = file(generated)
 }
 ``` 
+gradle의 Task에서 compileJava를 실행하면, 지정한 경로에 QClass가 generate 된다. 
+# 2. Java Configuration
 
-`build.gradle` 을 새로고침하면, gradle 탭에서 다음과 같이 Gradle task에 아래와 같이 생성이 된다.
-![gradle](https://media.vlpt.us/images/2yeseul/post/8cb77e5e-89c3-4866-8b98-6df1ac6bb25a/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-07-09%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%204.36.20.png)
+``` java
+@Configuration
+public class QueryDslConfiguration {
+    
+    @PersistenceContext
+    private EntityManager entityManager;
+    
+    @Bean
+    public JPAQueryFactory jpaQueryFactory() {
+        return new JPAQueryFactory(entityManager);
+    }
+}
+``` 
+위와 같이 설정하면 어느 곳에서나 JPAQueryFactory를 주입받아 QueryDSL을 사용할 수 있다. 
+
+# 3. 예제 
+
+``` java
+import static com.example.dog_cat_api.domain.QPost.post;
+
+@Repository
+@RequiredArgsConstructor
+public class PostQueryRepository  {
+    private final JPAQueryFactory jpaQueryFactory;
+
+    public List<Post> findByPetName(String petName) {
+        return jpaQueryFactory.selectFrom(post)
+                .where(post.petName.eq(petName))
+                .fetch();
+    }
+}
+```  
+
+처음에 인텔리제이에서 QClass를 자동으로 import 해주지 않아 조금 애를 먹었는데.. 그냥 수동으로 import 시켜 주었다. generate된 경로의 객체를 static으로 import 시키면, 해당 엔티티를 주입받아 사용할 수 있다. 
+
 
 출처
 
