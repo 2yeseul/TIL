@@ -4,14 +4,14 @@
 오늘 배운 것들을 정리하는 곳 ✨
 
 
-_51 TILs and counting..._
+_52 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
-- [토비의 스프링](Toby_Spring/main.md) - Wed Jun 30 22:40:14 2021 +0900
-- [리팩터링: 첫 번째 예시](Refactoring/ch01.md) - Wed Jun 30 22:40:14 2021 +0900
+- [19. 클래스와 멤버의 접근 권한을 최소화하라](EffectiveJava/ch19.md) - Wed Jul 21 13:31:18 2021 +0900
+- [리팩터링](Refactoring/main.md) - Wed Jun 30 22:40:14 2021 +0900
 
 ### Categories
 
@@ -50,6 +50,7 @@ _51 TILs and counting..._
 ### [EffectiveJava](#EffectiveJava)
 - [01. 생성자 대신 정적 패터리 메서드를 고려하라](EffectiveJava/ch01.md)
 - [02. 생성자에 매개변수가 많다면 빌더를 고려하라](EffectiveJava/ch02.md)
+- [19. 클래스와 멤버의 접근 권한을 최소화하라](EffectiveJava/ch19.md)
 - [Effective Java](EffectiveJava/main.md)
 
 ### [Etc](#Etc)
