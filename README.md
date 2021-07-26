@@ -4,14 +4,14 @@
 오늘 배운 것들을 정리하는 곳 ✨
 
 
-_52 TILs and counting..._
+_53 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [8장) 스프링이란 무엇인가? (1)](Toby_Spring/What_is_Spring.md) - Tue Jul 27 08:40:49 2021 +0900
 - [19. 클래스와 멤버의 접근 권한을 최소화하라](EffectiveJava/ch19.md) - Wed Jul 21 13:31:18 2021 +0900
-- [리팩터링](Refactoring/main.md) - Wed Jun 30 22:40:14 2021 +0900
 
 ### Categories
 
@@ -108,6 +108,7 @@ _52 TILs and counting..._
 
 ### [Toby_Spring](#Toby_Spring)
 - [[토비의 스프링 3.1] 스프링 IoC](Toby_Spring/Spring_IoC.md)
+- [8장) 스프링이란 무엇인가? (1)](Toby_Spring/What_is_Spring.md)
 - [토비의 스프링](Toby_Spring/main.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
