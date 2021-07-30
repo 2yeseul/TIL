@@ -4,14 +4,14 @@
 오늘 배운 것들을 정리하는 곳 ✨
 
 
-_53 TILs and counting..._
+_54 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [Entity와 DTO 간 매핑에 대한 코드를 자동 생성하는 MapStruct](SpringBoot/MapStruct.md) - Sat Jul 31 01:44:50 2021 +0900
 - [8장) 스프링이란 무엇인가? (1)](Toby_Spring/What_is_Spring.md) - Tue Jul 27 08:40:49 2021 +0900
-- [19. 클래스와 멤버의 접근 권한을 최소화하라](EffectiveJava/ch19.md) - Wed Jul 21 13:31:18 2021 +0900
 
 ### Categories
 
@@ -101,6 +101,7 @@ _53 TILs and counting..._
 - [Conditional Validation](SpringBoot/Conditional_Validation.md)
 - [@ControllerAdvice](SpringBoot/ControllerAdvice.md)
 - [DI / IoC](SpringBoot/DI-IoC.md)
+- [Entity와 DTO 간 매핑에 대한 코드를 자동 생성하는 MapStruct](SpringBoot/MapStruct.md)
 - [Remember Me - 로그인 상태 유지](SpringBoot/RememberMe.md)
 - [Validator](SpringBoot/Validator.md)
 - [WebSecurityConfig](SpringBoot/WebSecurityConfig.md)
