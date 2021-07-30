@@ -4,14 +4,14 @@
 오늘 배운 것들을 정리하는 곳 ✨
 
 
-_55 TILs and counting..._
+_54 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
-- [[오브젝트] ch01. 객체, 설계 - (1), (2)](SpringBoot/# [오브젝트] ch01. 객체, 설계.md) - Sat Jul 31 02:57:17 2021 +0900
 - [Entity와 DTO 간 매핑에 대한 코드를 자동 생성하는 MapStruct](SpringBoot/MapStruct.md) - Sat Jul 31 01:44:50 2021 +0900
+- [8장) 스프링이란 무엇인가? (1)](Toby_Spring/What_is_Spring.md) - Tue Jul 27 08:40:49 2021 +0900
 
 ### Categories
 
@@ -94,7 +94,6 @@ _55 TILs and counting..._
 - [JWT](Server/JWT.md)
 
 ### [SpringBoot](#SpringBoot)
-- [[오브젝트] ch01. 객체, 설계 - (1), (2)](SpringBoot/# [오브젝트] ch01. 객체, 설계.md)
 - [AOP - (1)](SpringBoot/AOP_1.md)
 - [회원가입 컨트롤러 만들기](SpringBoot/AccountController.md)
 - [회원정보 Service 만들기](SpringBoot/AccountFormSubmit.md)
