@@ -4,7 +4,7 @@
 오늘 배운 것들을 정리하는 곳 ✨
 
 
-_55 TILs and counting..._
+_56 TILs and counting..._
 
 ---
 
@@ -68,6 +68,7 @@ _55 TILs and counting..._
 - [Multiplebag Fetch Exception](JPA/MultipleBagFetchException.md)
 - [Pagination](JPA/Pagination.md)
 - [[자바 ORM 표준 JPA 프로그래밍] 연관관계 매핑 - 기초](JPA/RelationalMapping.md)
+- [[스터디] 자바 ORM 표준 JPA 프로그래밍 01](JPA/Study_JPA_01.md)
 - [Transaction](JPA/Transaction.md)
 - [JpaRepository의 findAll 사용 시, sort하는 방법](JPA/findAllSort.md)
 - [JPA - update](JPA/update.md)
