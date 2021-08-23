@@ -4,13 +4,13 @@
 오늘 배운 것들을 정리하는 곳 ✨
 
 
-_57 TILs and counting..._
+_58 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
-- [17. 변경 가능성을 최소화하라](EffectiveJava/ch17.md) - Mon Aug 23 09:22:35 2021 +0900
+- [Entity Listener](JPA/EntityListener.md) - Mon Aug 23 09:47:47 2021 +0900
 - [15. 클래스와 멤버의 접근 권한을 최소화하라](EffectiveJava/ch15.md) - Mon Aug 23 09:22:35 2021 +0900
 
 ### Categories
@@ -64,6 +64,7 @@ _57 TILs and counting..._
 ### [JPA](#JPA)
 - [[error] object references an unsaved transient instance - save the transient instance before flushing](JPA/Cascade.md)
 - [엔티티 생명주기](JPA/Entity-Lifecycle.md)
+- [Entity Listener](JPA/EntityListener.md)
 - [[자바 ORM 표준 JPA 프로그래밍] Entity 매핑](JPA/EntityMapping.md)
 - [[error] Infinite Recursion 오류](JPA/Infinite-Recursion.md)
 - [Multiplebag Fetch Exception](JPA/MultipleBagFetchException.md)
