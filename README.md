@@ -4,14 +4,14 @@
 오늘 배운 것들을 정리하는 곳 ✨
 
 
-_56 TILs and counting..._
+_57 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
-- [[오브젝트] ch01. 객체, 설계 - (1), (2)](SpringBoot/object_ch01.md) - Sat Jul 31 02:59:24 2021 +0900
-- [Entity와 DTO 간 매핑에 대한 코드를 자동 생성하는 MapStruct](SpringBoot/MapStruct.md) - Sat Jul 31 01:44:50 2021 +0900
+- [17. 변경 가능성을 최소하하라](EffectiveJava/ch17.md) - Mon Aug 23 09:22:35 2021 +0900
+- [15. 클래스와 멤버의 접근 권한을 최소화하라](EffectiveJava/ch15.md) - Mon Aug 23 09:22:35 2021 +0900
 
 ### Categories
 
@@ -50,7 +50,8 @@ _56 TILs and counting..._
 ### [EffectiveJava](#EffectiveJava)
 - [01. 생성자 대신 정적 패터리 메서드를 고려하라](EffectiveJava/ch01.md)
 - [02. 생성자에 매개변수가 많다면 빌더를 고려하라](EffectiveJava/ch02.md)
-- [19. 클래스와 멤버의 접근 권한을 최소화하라](EffectiveJava/ch19.md)
+- [15. 클래스와 멤버의 접근 권한을 최소화하라](EffectiveJava/ch15.md)
+- [17. 변경 가능성을 최소하하라](EffectiveJava/ch17.md)
 - [Effective Java](EffectiveJava/main.md)
 
 ### [Etc](#Etc)
