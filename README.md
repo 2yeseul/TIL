@@ -4,14 +4,14 @@
 오늘 배운 것들을 정리하는 곳 ✨
 
 
-_58 TILs and counting..._
+_59 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
-- [Entity Listener](JPA/EntityListener.md) - Mon Aug 23 09:47:47 2021 +0900
-- [15. 클래스와 멤버의 접근 권한을 최소화하라](EffectiveJava/ch15.md) - Mon Aug 23 09:22:35 2021 +0900
+- [오브젝트 - 설계 개선하기](Object/object_ch01_3.md) - Tue Aug 31 09:36:53 2021 +0900
+- [[오브젝트] ch01. 객체, 설계 - (1), (2)](Object/object_ch01.md) - Tue Aug 31 09:36:53 2021 +0900
 
 ### Categories
 
@@ -24,6 +24,7 @@ _58 TILs and counting..._
 - [JPA](#JPA)
 - [Java](#Java)
 - [MySQL](#MySQL)
+- [Object](#Object)
 - [QueryDSL](#QueryDSL)
 - [Refactoring](#Refactoring)
 - [Server](#Server)
@@ -86,6 +87,10 @@ _58 TILs and counting..._
 ### [MySQL](#MySQL)
 - [MySQL에서 `FOREIGN KEY` 설정된 table `TRUNCATE` 하기](MySQL/truncate-foreign-key.md)
 
+### [Object](#Object)
+- [[오브젝트] ch01. 객체, 설계 - (1), (2)](Object/object_ch01.md)
+- [오브젝트 - 설계 개선하기](Object/object_ch01_3.md)
+
 ### [QueryDSL](#QueryDSL)
 - [QueryDSL (1)](QueryDSL/QueryDSL_basic_1.md)
 
@@ -108,7 +113,6 @@ _58 TILs and counting..._
 - [Remember Me - 로그인 상태 유지](SpringBoot/RememberMe.md)
 - [Validator](SpringBoot/Validator.md)
 - [WebSecurityConfig](SpringBoot/WebSecurityConfig.md)
-- [[오브젝트] ch01. 객체, 설계 - (1), (2)](SpringBoot/object_ch01.md)
 - [Validation](SpringBoot/validation.md)
 
 ### [Toby_Spring](#Toby_Spring)
