@@ -4,14 +4,14 @@
 오늘 배운 것들을 정리하는 곳 ✨
 
 
-_59 TILs and counting..._
+_61 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
-- [오브젝트 - 설계 개선하기](Object/object_ch01_3.md) - Tue Aug 31 09:36:53 2021 +0900
-- [[오브젝트] ch01. 객체, 설계 - (1), (2)](Object/object_ch01.md) - Tue Aug 31 09:36:53 2021 +0900
+- [📌 설계 중심 규칙](Etc/RESTFul.md) - Fri Sep 10 08:58:36 2021 +0900
+- [QueryDsl 사용기 (2)](JPA/QueryDSL.md) - Fri Sep 10 08:58:36 2021 +0900
 
 ### Categories
 
@@ -58,6 +58,7 @@ _59 TILs and counting..._
 ### [Etc](#Etc)
 - [AmazonS3BeanError](Etc/AmazonS3BeanError.md)
 - [Data Structure](Etc/DataStructure.md)
+- [📌 설계 중심 규칙](Etc/RESTFul.md)
 
 ### [Git](#Git)
 - [Commit author 변경과 config user 관리](Git/config_user.md)
@@ -70,6 +71,7 @@ _59 TILs and counting..._
 - [[error] Infinite Recursion 오류](JPA/Infinite-Recursion.md)
 - [Multiplebag Fetch Exception](JPA/MultipleBagFetchException.md)
 - [Pagination](JPA/Pagination.md)
+- [QueryDsl 사용기 (2)](JPA/QueryDSL.md)
 - [[자바 ORM 표준 JPA 프로그래밍] 연관관계 매핑 - 기초](JPA/RelationalMapping.md)
 - [[스터디] 자바 ORM 표준 JPA 프로그래밍 01](JPA/Study_JPA_01.md)
 - [Transaction](JPA/Transaction.md)
