@@ -1,5 +1,7 @@
 # @ControllerAdvice
 
+@ControllerAdvice는 모든 컨트롤러들에 대하여 전역적으로 특정 메서드를 적용할 수 있다.
+
 Controller에서 발생한 모든 예외를 @ControllerAdvice에서 처리할 수 있다. 일반적으로 try catch를 사용하여 예외를 처리했는데, try catch를 사용해야 하는 경우라면 구체적인 Exception을 발생시키는 것이 좋다. 그 외에는 try-catch를 최대한 지양하고, 사용하더라도 최대한 로그를 추가하는 편이 좋다!
 
 try-catch를 통해 예외를 처리하는 대신, `@ControllerAdvice` 가 선언된 객체에서 예외를 핸들링한다. 스프링은 JSR 303(Spring Bean Validation) 기반 어노테이션을 통해 값 검증을 쉽고 일관성 있게 처리할 수 있도록 도와준다. 컨트롤러 자체가 예외를 처리하는 것이 아닌, 예외가 발생하면 해당 어노테이션이 선언된 객체에서 처리해주고 컨트롤러는 요청에 대한 값 검증만을 시행한다. 
