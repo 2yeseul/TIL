@@ -4,14 +4,14 @@
 오늘 배운 것들을 정리하는 곳 ✨
 
 
-_61 TILs and counting..._
+_63 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
-- [RESTFul API 설계 가이드](Etc/RESTFul.md) - Fri Sep 10 08:58:36 2021 +0900
-- [QueryDsl 사용기 (2)](JPA/QueryDSL.md) - Fri Sep 10 08:58:36 2021 +0900
+- [Jdbc를 통한 Bulk Insert](SpringBoot/BulkInsert.md) - Thu Sep 30 09:12:57 2021 +0900
+- [@ControllerAdvice 와  @InitBinder를 이용하여 모든 Request의 String Trim 설정](SpringBoot/InitBinder.md) - Thu Sep 30 09:12:57 2021 +0900
 
 ### Categories
 
@@ -108,9 +108,11 @@ _61 TILs and counting..._
 - [회원가입 컨트롤러 만들기](SpringBoot/AccountController.md)
 - [회원정보 Service 만들기](SpringBoot/AccountFormSubmit.md)
 - [Bean](SpringBoot/Bean.md)
+- [Jdbc를 통한 Bulk Insert](SpringBoot/BulkInsert.md)
 - [Conditional Validation](SpringBoot/Conditional_Validation.md)
 - [@ControllerAdvice](SpringBoot/ControllerAdvice.md)
 - [DI / IoC](SpringBoot/DI-IoC.md)
+- [@ControllerAdvice 와  @InitBinder를 이용하여 모든 Request의 String Trim 설정](SpringBoot/InitBinder.md)
 - [Entity와 DTO 간 매핑에 대한 코드를 자동 생성하는 MapStruct](SpringBoot/MapStruct.md)
 - [Remember Me - 로그인 상태 유지](SpringBoot/RememberMe.md)
 - [Validator](SpringBoot/Validator.md)
