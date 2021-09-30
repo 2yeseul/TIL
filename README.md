@@ -10,7 +10,7 @@ _61 TILs and counting..._
 
 ### 2 most recent TILs
 
-- [📌 설계 중심 규칙](Etc/RESTFul.md) - Fri Sep 10 08:58:36 2021 +0900
+- [RESTFul API 설계 가이드](Etc/RESTFul.md) - Fri Sep 10 08:58:36 2021 +0900
 - [QueryDsl 사용기 (2)](JPA/QueryDSL.md) - Fri Sep 10 08:58:36 2021 +0900
 
 ### Categories
@@ -58,7 +58,7 @@ _61 TILs and counting..._
 ### [Etc](#Etc)
 - [AmazonS3BeanError](Etc/AmazonS3BeanError.md)
 - [Data Structure](Etc/DataStructure.md)
-- [📌 설계 중심 규칙](Etc/RESTFul.md)
+- [RESTFul API 설계 가이드](Etc/RESTFul.md)
 
 ### [Git](#Git)
 - [Commit author 변경과 config user 관리](Git/config_user.md)
