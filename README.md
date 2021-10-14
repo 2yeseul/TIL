@@ -4,14 +4,14 @@
 오늘 배운 것들을 정리하는 곳 ✨
 
 
-_63 TILs and counting..._
+_64 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [[오브젝트] 2장 정리](Object/object_ch02_4.md) - Sun Oct 10 22:34:53 2021 +0900
 - [Jdbc를 통한 Bulk Insert](SpringBoot/BulkInsert.md) - Thu Sep 30 09:12:57 2021 +0900
-- [@ControllerAdvice 와  @InitBinder를 이용하여 모든 Request의 String Trim 설정](SpringBoot/InitBinder.md) - Thu Sep 30 09:12:57 2021 +0900
 
 ### Categories
 
@@ -92,6 +92,7 @@ _63 TILs and counting..._
 ### [Object](#Object)
 - [[오브젝트] ch01. 객체, 설계 - (1), (2)](Object/object_ch01.md)
 - [오브젝트 - 설계 개선하기](Object/object_ch01_3.md)
+- [[오브젝트] 2장 정리](Object/object_ch02_4.md)
 
 ### [QueryDSL](#QueryDSL)
 - [QueryDSL (1)](QueryDSL/QueryDSL_basic_1.md)
