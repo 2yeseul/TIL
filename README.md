@@ -4,14 +4,14 @@
 오늘 배운 것들을 정리하는 곳 ✨
 
 
-_64 TILs and counting..._
+_65 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [[Kotlin In Action] 2장 - 코틀린 기초](Kotlin_In_Action/ch02.md) - Fri Oct 15 22:27:11 2021 +0900
 - [[오브젝트] 2장 정리](Object/object_ch02_4.md) - Sun Oct 10 22:34:53 2021 +0900
-- [Jdbc를 통한 Bulk Insert](SpringBoot/BulkInsert.md) - Thu Sep 30 09:12:57 2021 +0900
 
 ### Categories
 
@@ -23,6 +23,7 @@ _64 TILs and counting..._
 - [Git](#Git)
 - [JPA](#JPA)
 - [Java](#Java)
+- [Kotlin_In_Action](#Kotlin_In_Action)
 - [MySQL](#MySQL)
 - [Object](#Object)
 - [QueryDSL](#QueryDSL)
@@ -85,6 +86,9 @@ _64 TILs and counting..._
 - [Lamda](Java/Lamda.md)
 - [List 정렬](Java/List_Sort.md)
 - [Thread](Java/Thread.md)
+
+### [Kotlin_In_Action](#Kotlin_In_Action)
+- [[Kotlin In Action] 2장 - 코틀린 기초](Kotlin_In_Action/ch02.md)
 
 ### [MySQL](#MySQL)
 - [MySQL에서 `FOREIGN KEY` 설정된 table `TRUNCATE` 하기](MySQL/truncate-foreign-key.md)
