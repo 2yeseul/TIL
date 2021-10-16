@@ -4,14 +4,14 @@
 오늘 배운 것들을 정리하는 곳 ✨
 
 
-_67 TILs and counting..._
+_70 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
-- [도커 기본 명령어](Docker/Docker_2.md) - Fri Oct 15 22:36:10 2021 +0900
-- [도커란 무엇인가?](Docker/Docker_1.md) - Fri Oct 15 22:36:10 2021 +0900
+- [Event Loop](node_js/Event_Loop.md) - Sat Oct 16 19:45:36 2021 +0900
+- [Callback Function](node_js/Callback_Function.md) - Sat Oct 16 19:45:36 2021 +0900
 
 ### Categories
 
@@ -32,6 +32,7 @@ _67 TILs and counting..._
 - [Server](#Server)
 - [SpringBoot](#SpringBoot)
 - [Toby_Spring](#Toby_Spring)
+- [node_js](#node_js)
 
 ### [Baekjoon](#Baekjoon)
 - [Q1463](Baekjoon/Q1463.md)
@@ -46,6 +47,7 @@ _67 TILs and counting..._
 - [pair](C++/pair.md)
 
 ### [DevOps](#DevOps)
+- [CDN이란](DevOps/CDN.md)
 - [CI / CD](DevOps/CI_CD.md)
 - [AWS CodeDeploy](DevOps/CodeDeploy.md)
 - [Github action을 통한 Spring boot 자동 deploy](DevOps/GitHubAction.md)
@@ -133,6 +135,10 @@ _67 TILs and counting..._
 - [[토비의 스프링 3.1] 스프링 IoC](Toby_Spring/Spring_IoC.md)
 - [8장) 스프링이란 무엇인가? (1)](Toby_Spring/What_is_Spring.md)
 - [토비의 스프링](Toby_Spring/main.md)
+
+### [node_js](#node_js)
+- [Callback Function](node_js/Callback_Function.md)
+- [Event Loop](node_js/Event_Loop.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 [2]: https://github.com/jbranchaud/til
