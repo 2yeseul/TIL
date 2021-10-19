@@ -4,14 +4,14 @@
 오늘 배운 것들을 정리하는 곳 ✨
 
 
-_70 TILs and counting..._
+_72 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
-- [Event Loop](node_js/Event_Loop.md) - Sat Oct 16 19:45:36 2021 +0900
-- [Callback Function](node_js/Callback_Function.md) - Sat Oct 16 19:45:36 2021 +0900
+- [ktor 를 통해 mutlpart 파일 업로드 하기](Kotlin/ktor_file.md) - Tue Oct 19 23:15:28 2021 +0900
+- [코틀린 타입 시스템](Kotlin_In_Action/ch06.md) - Tue Oct 19 23:15:28 2021 +0900
 
 ### Categories
 
@@ -24,6 +24,7 @@ _70 TILs and counting..._
 - [Git](#Git)
 - [JPA](#JPA)
 - [Java](#Java)
+- [Kotlin](#Kotlin)
 - [Kotlin_In_Action](#Kotlin_In_Action)
 - [MySQL](#MySQL)
 - [Object](#Object)
@@ -94,8 +95,12 @@ _70 TILs and counting..._
 - [List 정렬](Java/List_Sort.md)
 - [Thread](Java/Thread.md)
 
+### [Kotlin](#Kotlin)
+- [ktor 를 통해 mutlpart 파일 업로드 하기](Kotlin/ktor_file.md)
+
 ### [Kotlin_In_Action](#Kotlin_In_Action)
 - [[Kotlin In Action] 2장 - 코틀린 기초](Kotlin_In_Action/ch02.md)
+- [코틀린 타입 시스템](Kotlin_In_Action/ch06.md)
 
 ### [MySQL](#MySQL)
 - [MySQL에서 `FOREIGN KEY` 설정된 table `TRUNCATE` 하기](MySQL/truncate-foreign-key.md)
