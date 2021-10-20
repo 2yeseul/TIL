@@ -10,7 +10,7 @@ _72 TILs and counting..._
 
 ### 2 most recent TILs
 
-- [ktor 를 통해 mutlpart 파일 업로드 하기](Kotlin/ktor_file.md) - Tue Oct 19 23:15:28 2021 +0900
+- [ktor 를 통해 multipart 파일 업로드 하기](Kotlin/ktor_file.md) - Tue Oct 19 23:15:28 2021 +0900
 - [코틀린 타입 시스템](Kotlin_In_Action/ch06.md) - Tue Oct 19 23:15:28 2021 +0900
 
 ### Categories
@@ -96,7 +96,7 @@ _72 TILs and counting..._
 - [Thread](Java/Thread.md)
 
 ### [Kotlin](#Kotlin)
-- [ktor 를 통해 mutlpart 파일 업로드 하기](Kotlin/ktor_file.md)
+- [ktor 를 통해 multipart 파일 업로드 하기](Kotlin/ktor_file.md)
 
 ### [Kotlin_In_Action](#Kotlin_In_Action)
 - [[Kotlin In Action] 2장 - 코틀린 기초](Kotlin_In_Action/ch02.md)
