@@ -4,14 +4,14 @@
 오늘 배운 것들을 정리하는 곳 ✨
 
 
-_72 TILs and counting..._
+_73 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [확장 함수](Kotlin/Extension_functions.md) - Sat Oct 23 18:15:03 2021 +0900
 - [ktor 를 통해 multipart 파일 업로드 하기](Kotlin/ktor_file.md) - Tue Oct 19 23:15:28 2021 +0900
-- [코틀린 타입 시스템](Kotlin_In_Action/ch06.md) - Tue Oct 19 23:15:28 2021 +0900
 
 ### Categories
 
@@ -96,6 +96,7 @@ _72 TILs and counting..._
 - [Thread](Java/Thread.md)
 
 ### [Kotlin](#Kotlin)
+- [확장 함수](Kotlin/Extension_functions.md)
 - [ktor 를 통해 multipart 파일 업로드 하기](Kotlin/ktor_file.md)
 
 ### [Kotlin_In_Action](#Kotlin_In_Action)
