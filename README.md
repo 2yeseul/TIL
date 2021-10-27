@@ -4,14 +4,14 @@
 오늘 배운 것들을 정리하는 곳 ✨
 
 
-_75 TILs and counting..._
+_76 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [M1 (ARM64)에서 docker mysql 실행하기](Docker/Docker_Arm64.md) - Wed Oct 27 21:12:25 2021 +0900
 - [Redis 정리 - (1)](Infra/Redis.md) - Mon Oct 25 21:17:20 2021 +0900
-- [Scope Function](Kotlin/ScopeFunction.md) - Sat Oct 23 22:20:46 2021 +0900
 
 ### Categories
 
@@ -57,6 +57,7 @@ _75 TILs and counting..._
 ### [Docker](#Docker)
 - [도커란 무엇인가?](Docker/Docker_1.md)
 - [도커 기본 명령어](Docker/Docker_2.md)
+- [M1 (ARM64)에서 docker mysql 실행하기](Docker/Docker_Arm64.md)
 
 ### [EffectiveJava](#EffectiveJava)
 - [01. 생성자 대신 정적 패터리 메서드를 고려하라](EffectiveJava/ch01.md)
