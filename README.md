@@ -4,14 +4,14 @@
 오늘 배운 것들을 정리하는 곳 ✨
 
 
-_74 TILs and counting..._
+_75 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [Redis 정리 - (1)](Infra/Redis.md) - Mon Oct 25 21:17:20 2021 +0900
 - [Scope Function](Kotlin/ScopeFunction.md) - Sat Oct 23 22:20:46 2021 +0900
-- [확장 함수](Kotlin/Extension_functions.md) - Sat Oct 23 18:15:03 2021 +0900
 
 ### Categories
 
@@ -22,6 +22,7 @@ _74 TILs and counting..._
 - [EffectiveJava](#EffectiveJava)
 - [Etc](#Etc)
 - [Git](#Git)
+- [Infra](#Infra)
 - [JPA](#JPA)
 - [Java](#Java)
 - [Kotlin](#Kotlin)
@@ -71,6 +72,9 @@ _74 TILs and counting..._
 
 ### [Git](#Git)
 - [Commit author 변경과 config user 관리](Git/config_user.md)
+
+### [Infra](#Infra)
+- [Redis 정리 - (1)](Infra/Redis.md)
 
 ### [JPA](#JPA)
 - [[error] object references an unsaved transient instance - save the transient instance before flushing](JPA/Cascade.md)
