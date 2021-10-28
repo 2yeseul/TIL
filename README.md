@@ -4,14 +4,14 @@
 오늘 배운 것들을 정리하는 곳 ✨
 
 
-_76 TILs and counting..._
+_77 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [Spring WebFlux](WebFlux/webflux.md) - Wed Oct 27 23:51:09 2021 +0900
 - [M1 (ARM64)에서 docker mysql 실행하기](Docker/Docker_Arm64.md) - Wed Oct 27 21:12:25 2021 +0900
-- [Redis 정리 - (1)](Infra/Redis.md) - Mon Oct 25 21:17:20 2021 +0900
 
 ### Categories
 
@@ -34,6 +34,7 @@ _76 TILs and counting..._
 - [Server](#Server)
 - [SpringBoot](#SpringBoot)
 - [Toby_Spring](#Toby_Spring)
+- [WebFlux](#WebFlux)
 - [node_js](#node_js)
 
 ### [Baekjoon](#Baekjoon)
@@ -147,6 +148,9 @@ _76 TILs and counting..._
 - [[토비의 스프링 3.1] 스프링 IoC](Toby_Spring/Spring_IoC.md)
 - [8장) 스프링이란 무엇인가? (1)](Toby_Spring/What_is_Spring.md)
 - [토비의 스프링](Toby_Spring/main.md)
+
+### [WebFlux](#WebFlux)
+- [Spring WebFlux](WebFlux/webflux.md)
 
 ### [node_js](#node_js)
 - [Callback Function](node_js/Callback_Function.md)
