@@ -4,14 +4,14 @@
 오늘 배운 것들을 정리하는 곳 ✨
 
 
-_77 TILs and counting..._
+_78 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [map과 flatMap](Java/map_vs_flatMap.md) - Thu Oct 28 23:41:35 2021 +0900
 - [Spring WebFlux](WebFlux/webflux.md) - Wed Oct 27 23:51:09 2021 +0900
-- [M1 (ARM64)에서 docker mysql 실행하기](Docker/Docker_Arm64.md) - Wed Oct 27 21:12:25 2021 +0900
 
 ### Categories
 
@@ -100,6 +100,7 @@ _77 TILs and counting..._
 - [Lamda](Java/Lamda.md)
 - [List 정렬](Java/List_Sort.md)
 - [Thread](Java/Thread.md)
+- [map과 flatMap](Java/map_vs_flatMap.md)
 
 ### [Kotlin](#Kotlin)
 - [확장 함수](Kotlin/Extension_functions.md)
