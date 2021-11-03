@@ -4,7 +4,7 @@
 오늘 배운 것들을 정리하는 곳 ✨
 
 
-_78 TILs and counting..._
+_79 TILs and counting..._
 
 ---
 
@@ -156,6 +156,7 @@ _78 TILs and counting..._
 ### [node_js](#node_js)
 - [Callback Function](node_js/Callback_Function.md)
 - [Event Loop](node_js/Event_Loop.md)
+- [[Node.js 교과서] - 2장 자바스크립트 정리](node_js/node_js_book.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 [2]: https://github.com/jbranchaud/til
