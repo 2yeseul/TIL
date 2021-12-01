@@ -4,19 +4,20 @@
 오늘 배운 것들을 정리하는 곳 ✨
 
 
-_84 TILs and counting..._
+_86 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
 - [Coroutine](Kotlin/Coroutine.md) - Thu Nov 11 22:18:58 2021 +0900
-- [Coroutine](Kotlin/_Coroutine.md) - Thu Nov 11 22:18:58 2021 +0900
+- [map과 flatMap](Java/map_vs_flatMap.md) - Thu Oct 28 23:41:35 2021 +0900
 
 ### Categories
 
 - [Baekjoon](#Baekjoon)
 - [C++](#C++)
+- [DesignPattern](#DesignPattern)
 - [DevOps](#DevOps)
 - [Docker](#Docker)
 - [EffectiveJava](#EffectiveJava)
@@ -49,6 +50,10 @@ _84 TILs and counting..._
 ### [C++](#C++)
 - [pair](C++/pair.md)
 
+### [DesignPattern](#DesignPattern)
+- [Observer Pattern](DesignPattern/ObserverPattern.md)
+- [Strategy Pattern](DesignPattern/StrategyPattern.md)
+
 ### [DevOps](#DevOps)
 - [CDN이란](DevOps/CDN.md)
 - [CI / CD](DevOps/CI_CD.md)
@@ -77,6 +82,7 @@ _84 TILs and counting..._
 
 ### [Infra](#Infra)
 - [Redis 정리 - (1)](Infra/Redis.md)
+- [Spring Data Redis](Infra/RedisToSpring.md)
 
 ### [JPA](#JPA)
 - [[error] object references an unsaved transient instance - save the transient instance before flushing](JPA/Cascade.md)
@@ -106,7 +112,6 @@ _84 TILs and counting..._
 - [Coroutine](Kotlin/Coroutine.md)
 - [확장 함수](Kotlin/Extension_functions.md)
 - [Scope Function](Kotlin/ScopeFunction.md)
-- [Coroutine](Kotlin/_Coroutine.md)
 - [ktor 를 통해 multipart 파일 업로드 하기](Kotlin/ktor_file.md)
 
 ### [Kotlin_In_Action](#Kotlin_In_Action)
