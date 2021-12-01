@@ -4,7 +4,7 @@
 오늘 배운 것들을 정리하는 곳 ✨
 
 
-_86 TILs and counting..._
+_87 TILs and counting..._
 
 ---
 
@@ -74,6 +74,7 @@ _86 TILs and counting..._
 
 ### [Etc](#Etc)
 - [AmazonS3BeanError](Etc/AmazonS3BeanError.md)
+- [동기와 비동기, 블로킹과 논블로킹](Etc/AsyncNonBlocking.md)
 - [Data Structure](Etc/DataStructure.md)
 - [RESTFul API 설계 가이드](Etc/RESTFul.md)
 
