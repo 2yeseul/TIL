@@ -4,7 +4,7 @@
 오늘 배운 것들을 정리하는 곳 ✨
 
 
-_87 TILs and counting..._
+_88 TILs and counting..._
 
 ---
 
@@ -159,6 +159,7 @@ _87 TILs and counting..._
 - [토비의 스프링](Toby_Spring/main.md)
 
 ### [WebFlux](#WebFlux)
+- [[Web Flux] map 과 flatMap](WebFlux/mapAndFlatMap.md)
 - [Spring WebFlux](WebFlux/webflux.md)
 
 ### [node_js](#node_js)
