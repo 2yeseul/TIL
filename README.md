@@ -4,14 +4,14 @@
 오늘 배운 것들을 정리하는 곳 ✨
 
 
-_88 TILs and counting..._
+_89 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [SpringBoot 테스트를 위한 EmbeddedRedis 설정](SpringBoot/EmbeddedRedis.md) - Sat Dec 11 00:39:26 2021 +0900
 - [Coroutine](Kotlin/Coroutine.md) - Thu Nov 11 22:18:58 2021 +0900
-- [map과 flatMap](Java/map_vs_flatMap.md) - Thu Oct 28 23:41:35 2021 +0900
 
 ### Categories
 
@@ -146,6 +146,7 @@ _88 TILs and counting..._
 - [Conditional Validation](SpringBoot/Conditional_Validation.md)
 - [@ControllerAdvice](SpringBoot/ControllerAdvice.md)
 - [DI / IoC](SpringBoot/DI-IoC.md)
+- [SpringBoot 테스트를 위한 EmbeddedRedis 설정](SpringBoot/EmbeddedRedis.md)
 - [@ControllerAdvice 와  @InitBinder를 이용하여 모든 Request의 String Trim 설정](SpringBoot/InitBinder.md)
 - [Entity와 DTO 간 매핑에 대한 코드를 자동 생성하는 MapStruct](SpringBoot/MapStruct.md)
 - [Remember Me - 로그인 상태 유지](SpringBoot/RememberMe.md)
