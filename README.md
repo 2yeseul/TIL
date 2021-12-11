@@ -10,14 +10,14 @@ _91 TILs and counting..._
 
 ### 2 most recent TILs
 
-- [Class](Clean Code/Class.md) - Sat Dec 11 22:36:44 2021 +0900
+- [Class](CleanCode/Class.md) - Sat Dec 11 22:40:26 2021 +0900
 - [Decorator Pattern](DesignPattern/DecoratorPattern.md) - Sat Dec 11 22:36:44 2021 +0900
 
 ### Categories
 
 - [Baekjoon](#Baekjoon)
 - [C++](#C++)
-- [Clean Code](#Clean Code)
+- [CleanCode](#CleanCode)
 - [DesignPattern](#DesignPattern)
 - [DevOps](#DevOps)
 - [Docker](#Docker)
@@ -51,8 +51,8 @@ _91 TILs and counting..._
 ### [C++](#C++)
 - [pair](C++/pair.md)
 
-### [Clean Code](#Clean Code)
-- [Class](Clean Code/Class.md)
+### [CleanCode](#CleanCode)
+- [Class](CleanCode/Class.md)
 
 ### [DesignPattern](#DesignPattern)
 - [Decorator Pattern](DesignPattern/DecoratorPattern.md)
