@@ -4,19 +4,20 @@
 오늘 배운 것들을 정리하는 곳 ✨
 
 
-_89 TILs and counting..._
+_91 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
-- [SpringBoot 테스트를 위한 EmbeddedRedis 설정](SpringBoot/EmbeddedRedis.md) - Sat Dec 11 00:39:26 2021 +0900
-- [Coroutine](Kotlin/Coroutine.md) - Thu Nov 11 22:18:58 2021 +0900
+- [Class](Clean Code/Class.md) - Sat Dec 11 22:36:44 2021 +0900
+- [Decorator Pattern](DesignPattern/DecoratorPattern.md) - Sat Dec 11 22:36:44 2021 +0900
 
 ### Categories
 
 - [Baekjoon](#Baekjoon)
 - [C++](#C++)
+- [Clean Code](#Clean Code)
 - [DesignPattern](#DesignPattern)
 - [DevOps](#DevOps)
 - [Docker](#Docker)
@@ -50,7 +51,11 @@ _89 TILs and counting..._
 ### [C++](#C++)
 - [pair](C++/pair.md)
 
+### [Clean Code](#Clean Code)
+- [Class](Clean Code/Class.md)
+
 ### [DesignPattern](#DesignPattern)
+- [Decorator Pattern](DesignPattern/DecoratorPattern.md)
 - [Observer Pattern](DesignPattern/ObserverPattern.md)
 - [Strategy Pattern](DesignPattern/StrategyPattern.md)
 
