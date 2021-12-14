@@ -4,14 +4,14 @@
 오늘 배운 것들을 정리하는 곳 ✨
 
 
-_92 TILs and counting..._
+_93 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [any와 unknown](Typescript/Any_Unknown.md) - Tue Dec 14 23:43:07 2021 +0900
 - [[오브젝트] 3장 - 역할](Object/object_ch03_3.md) - Tue Dec 14 23:07:39 2021 +0900
-- [Class](CleanCode/Class.md) - Sat Dec 11 22:40:26 2021 +0900
 
 ### Categories
 
@@ -36,6 +36,7 @@ _92 TILs and counting..._
 - [Server](#Server)
 - [SpringBoot](#SpringBoot)
 - [Toby_Spring](#Toby_Spring)
+- [Typescript](#Typescript)
 - [WebFlux](#WebFlux)
 - [node_js](#node_js)
 
@@ -164,6 +165,9 @@ _92 TILs and counting..._
 - [[토비의 스프링 3.1] 스프링 IoC](Toby_Spring/Spring_IoC.md)
 - [8장) 스프링이란 무엇인가? (1)](Toby_Spring/What_is_Spring.md)
 - [토비의 스프링](Toby_Spring/main.md)
+
+### [Typescript](#Typescript)
+- [any와 unknown](Typescript/Any_Unknown.md)
 
 ### [WebFlux](#WebFlux)
 - [[Web Flux] map 과 flatMap](WebFlux/mapAndFlatMap.md)
