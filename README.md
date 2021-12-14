@@ -4,14 +4,14 @@
 오늘 배운 것들을 정리하는 곳 ✨
 
 
-_91 TILs and counting..._
+_92 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [[오브젝트] 3장 - 역할](Object/object_ch03_3.md) - Tue Dec 14 23:07:39 2021 +0900
 - [Class](CleanCode/Class.md) - Sat Dec 11 22:40:26 2021 +0900
-- [Decorator Pattern](DesignPattern/DecoratorPattern.md) - Sat Dec 11 22:36:44 2021 +0900
 
 ### Categories
 
@@ -131,6 +131,7 @@ _91 TILs and counting..._
 - [[오브젝트] ch01. 객체, 설계 - (1), (2)](Object/object_ch01.md)
 - [오브젝트 - 설계 개선하기](Object/object_ch01_3.md)
 - [[오브젝트] 2장 정리](Object/object_ch02_4.md)
+- [[오브젝트] 3장 - 역할](Object/object_ch03_3.md)
 
 ### [QueryDSL](#QueryDSL)
 - [QueryDSL (1)](QueryDSL/QueryDSL_basic_1.md)
