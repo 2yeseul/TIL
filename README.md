@@ -4,7 +4,7 @@
 오늘 배운 것들을 정리하는 곳 ✨
 
 
-_94 TILs and counting..._
+_96 TILs and counting..._
 
 ---
 
@@ -87,6 +87,7 @@ _94 TILs and counting..._
 
 ### [Git](#Git)
 - [Commit author 변경과 config user 관리](Git/config_user.md)
+- [삭제된 commit 복구하기](Git/restore_deleted_commit.md)
 
 ### [Infra](#Infra)
 - [Redis 정리 - (1)](Infra/Redis.md)
@@ -140,6 +141,7 @@ _94 TILs and counting..._
 
 ### [React](#React)
 - [리액트 공부 - (1)](React/base.md)
+- [Component와 Props](React/component_props.md)
 
 ### [Refactoring](#Refactoring)
 - [리팩터링: 첫 번째 예시](Refactoring/ch01.md)
