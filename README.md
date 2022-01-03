@@ -4,7 +4,7 @@
 오늘 배운 것들을 정리하는 곳 ✨
 
 
-_96 TILs and counting..._
+_97 TILs and counting..._
 
 ---
 
@@ -142,6 +142,7 @@ _96 TILs and counting..._
 ### [React](#React)
 - [리액트 공부 - (1)](React/base.md)
 - [Component와 Props](React/component_props.md)
+- [formik](React/formik.md)
 
 ### [Refactoring](#Refactoring)
 - [리팩터링: 첫 번째 예시](Refactoring/ch01.md)
