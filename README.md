@@ -73,7 +73,7 @@ _98 TILs and counting..._
 - [M1 (ARM64)에서 docker mysql 실행하기](Docker/Docker_Arm64.md)
 
 ### [EffectiveJava](#EffectiveJava)
-- [01. 생성자 대신 정적 패터리 메서드를 고려하라](EffectiveJava/ch01.md)
+- [01. 생성자 대신 정적 팩터리 메서드를 고려하라](EffectiveJava/ch01.md)
 - [02. 생성자에 매개변수가 많다면 빌더를 고려하라](EffectiveJava/ch02.md)
 - [15. 클래스와 멤버의 접근 권한을 최소화하라](EffectiveJava/ch15.md)
 - [17. 변경 가능성을 최소화하라](EffectiveJava/ch17.md)
