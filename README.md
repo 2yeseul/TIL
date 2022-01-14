@@ -4,14 +4,14 @@
 오늘 배운 것들을 정리하는 곳 ✨
 
 
-_98 TILs and counting..._
+_99 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [이전 커밋에 포함하지 못한 변경사항 합치기](Git/fix-up.md) - Fri Jan 14 23:48:21 2022 +0900
 - [리액트 공부 - (1)](React/base.md) - Sun Dec 19 00:26:37 2021 +0900
-- [any와 unknown](Typescript/Any_Unknown.md) - Tue Dec 14 23:43:07 2021 +0900
 
 ### Categories
 
@@ -87,6 +87,7 @@ _98 TILs and counting..._
 
 ### [Git](#Git)
 - [Commit author 변경과 config user 관리](Git/config_user.md)
+- [이전 커밋에 포함하지 못한 변경사항 합치기](Git/fix-up.md)
 - [삭제된 commit 복구하기](Git/restore_deleted_commit.md)
 
 ### [Infra](#Infra)
