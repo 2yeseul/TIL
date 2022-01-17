@@ -4,14 +4,14 @@
 오늘 배운 것들을 정리하는 곳 ✨
 
 
-_99 TILs and counting..._
+_100 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [jest.fn()](jest/mock-function.md) - Mon Jan 17 22:00:55 2022 +0900
 - [이전 커밋에 포함하지 못한 변경사항 합치기](Git/fix-up.md) - Fri Jan 14 23:48:21 2022 +0900
-- [리액트 공부 - (1)](React/base.md) - Sun Dec 19 00:26:37 2021 +0900
 
 ### Categories
 
@@ -39,6 +39,7 @@ _99 TILs and counting..._
 - [Toby_Spring](#Toby_Spring)
 - [Typescript](#Typescript)
 - [WebFlux](#WebFlux)
+- [jest](#jest)
 - [node_js](#node_js)
 
 ### [Baekjoon](#Baekjoon)
@@ -181,6 +182,9 @@ _99 TILs and counting..._
 ### [WebFlux](#WebFlux)
 - [[Web Flux] map 과 flatMap](WebFlux/mapAndFlatMap.md)
 - [Spring WebFlux](WebFlux/webflux.md)
+
+### [jest](#jest)
+- [jest.fn()](jest/mock-function.md)
 
 ### [node_js](#node_js)
 - [Callback Function](node_js/Callback_Function.md)
