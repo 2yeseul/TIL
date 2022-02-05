@@ -4,7 +4,7 @@
 오늘 배운 것들을 정리하는 곳 ✨
 
 
-_101 TILs and counting..._
+_102 TILs and counting..._
 
 ---
 
@@ -143,6 +143,7 @@ _101 TILs and counting..._
 - [QueryDSL (1)](QueryDSL/QueryDSL_basic_1.md)
 
 ### [React](#React)
+- [create-react-app typescript로 생성하기](React/CreateReactAppTs.md)
 - [[실전 리액트 프로그래밍] 정리](React/React_1.md)
 - [리액트 공부 - (1)](React/base.md)
 - [Component와 Props](React/component_props.md)
