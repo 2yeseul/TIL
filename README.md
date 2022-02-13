@@ -4,14 +4,14 @@
 오늘 배운 것들을 정리하는 곳 ✨
 
 
-_102 TILs and counting..._
+_103 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [[코어자바스크립트] 01. 데이터 타입](Javascript/CoreJS_01.md) - Sun Feb 13 16:31:00 2022 +0900
 - [jest.fn()](jest/mock-function.md) - Mon Jan 17 22:00:55 2022 +0900
-- [이전 커밋에 포함하지 못한 변경사항 합치기](Git/fix-up.md) - Fri Jan 14 23:48:21 2022 +0900
 
 ### Categories
 
@@ -27,6 +27,7 @@ _102 TILs and counting..._
 - [Infra](#Infra)
 - [JPA](#JPA)
 - [Java](#Java)
+- [Javascript](#Javascript)
 - [Kotlin](#Kotlin)
 - [Kotlin_In_Action](#Kotlin_In_Action)
 - [MySQL](#MySQL)
@@ -119,6 +120,9 @@ _102 TILs and counting..._
 - [List 정렬](Java/List_Sort.md)
 - [Thread](Java/Thread.md)
 - [map과 flatMap](Java/map_vs_flatMap.md)
+
+### [Javascript](#Javascript)
+- [[코어자바스크립트] 01. 데이터 타입](Javascript/CoreJS_01.md)
 
 ### [Kotlin](#Kotlin)
 - [Coroutine](Kotlin/Coroutine.md)
