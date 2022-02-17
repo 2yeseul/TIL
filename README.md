@@ -4,14 +4,14 @@
 오늘 배운 것들을 정리하는 곳 ✨
 
 
-_103 TILs and counting..._
+_104 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [Indexes](MongoDB/index.md) - Thu Feb 17 23:10:00 2022 +0900
 - [[코어자바스크립트] 01. 데이터 타입](Javascript/CoreJS_01.md) - Sun Feb 13 16:31:00 2022 +0900
-- [jest.fn()](jest/mock-function.md) - Mon Jan 17 22:00:55 2022 +0900
 
 ### Categories
 
@@ -30,6 +30,7 @@ _103 TILs and counting..._
 - [Javascript](#Javascript)
 - [Kotlin](#Kotlin)
 - [Kotlin_In_Action](#Kotlin_In_Action)
+- [MongoDB](#MongoDB)
 - [MySQL](#MySQL)
 - [Object](#Object)
 - [QueryDSL](#QueryDSL)
@@ -133,6 +134,9 @@ _103 TILs and counting..._
 ### [Kotlin_In_Action](#Kotlin_In_Action)
 - [[Kotlin In Action] 2장 - 코틀린 기초](Kotlin_In_Action/ch02.md)
 - [코틀린 타입 시스템](Kotlin_In_Action/ch06.md)
+
+### [MongoDB](#MongoDB)
+- [Indexes](MongoDB/index.md)
 
 ### [MySQL](#MySQL)
 - [MySQL에서 `FOREIGN KEY` 설정된 table `TRUNCATE` 하기](MySQL/truncate-foreign-key.md)
