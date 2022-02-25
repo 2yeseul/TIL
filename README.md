@@ -4,14 +4,14 @@
 오늘 배운 것들을 정리하는 곳 ✨
 
 
-_104 TILs and counting..._
+_106 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
-- [Indexes](MongoDB/index.md) - Thu Feb 17 23:10:00 2022 +0900
-- [[코어자바스크립트] 01. 데이터 타입](Javascript/CoreJS_01.md) - Sun Feb 13 16:31:00 2022 +0900
+- [Array.prototype.reduce()](Javascript/reduce.md) - Fri Feb 25 23:11:02 2022 +0900
+- [[코어자바스크립트] 02.실행 컨텍스트](Javascript/CoreJS_02.md) - Fri Feb 25 23:11:02 2022 +0900
 
 ### Categories
 
@@ -124,6 +124,8 @@ _104 TILs and counting..._
 
 ### [Javascript](#Javascript)
 - [[코어자바스크립트] 01. 데이터 타입](Javascript/CoreJS_01.md)
+- [[코어자바스크립트] 02.실행 컨텍스트](Javascript/CoreJS_02.md)
+- [Array.prototype.reduce()](Javascript/reduce.md)
 
 ### [Kotlin](#Kotlin)
 - [Coroutine](Kotlin/Coroutine.md)
