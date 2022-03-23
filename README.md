@@ -4,14 +4,14 @@
 오늘 배운 것들을 정리하는 곳 ✨
 
 
-_106 TILs and counting..._
+_112 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
-- [Array.prototype.reduce()](Javascript/reduce.md) - Fri Feb 25 23:11:02 2022 +0900
-- [[코어자바스크립트] 02.실행 컨텍스트](Javascript/CoreJS_02.md) - Fri Feb 25 23:11:02 2022 +0900
+- [1장 정리](TDD/ch01.md) - Wed Mar 23 21:37:59 2022 +0900
+- [평가와 일급](Functional_Programming/Evaluation_First_Class.md) - Wed Mar 23 21:37:59 2022 +0900
 
 ### Categories
 
@@ -23,6 +23,7 @@ _106 TILs and counting..._
 - [Docker](#Docker)
 - [EffectiveJava](#EffectiveJava)
 - [Etc](#Etc)
+- [Functional_Programming](#Functional_Programming)
 - [Git](#Git)
 - [Infra](#Infra)
 - [JPA](#JPA)
@@ -38,6 +39,7 @@ _106 TILs and counting..._
 - [Refactoring](#Refactoring)
 - [Server](#Server)
 - [SpringBoot](#SpringBoot)
+- [TDD](#TDD)
 - [Toby_Spring](#Toby_Spring)
 - [Typescript](#Typescript)
 - [WebFlux](#WebFlux)
@@ -87,6 +89,11 @@ _106 TILs and counting..._
 - [동기와 비동기, 블로킹과 논블로킹](Etc/AsyncNonBlocking.md)
 - [Data Structure](Etc/DataStructure.md)
 - [RESTFul API 설계 가이드](Etc/RESTFul.md)
+
+### [Functional_Programming](#Functional_Programming)
+- [평가와 일급](Functional_Programming/Evaluation_First_Class.md)
+- [고차함수](Functional_Programming/Higher-Order-Function.md)
+- [이터러블 / 이터레이터 프로토콜](Functional_Programming/Iterable.md)
 
 ### [Git](#Git)
 - [Commit author 변경과 config user 관리](Git/config_user.md)
@@ -138,6 +145,7 @@ _106 TILs and counting..._
 - [코틀린 타입 시스템](Kotlin_In_Action/ch06.md)
 
 ### [MongoDB](#MongoDB)
+- [$addToSet](MongoDB/addToSet.md)
 - [Indexes](MongoDB/index.md)
 
 ### [MySQL](#MySQL)
@@ -161,6 +169,7 @@ _106 TILs and counting..._
 
 ### [Refactoring](#Refactoring)
 - [리팩터링: 첫 번째 예시](Refactoring/ch01.md)
+- [1장 정리](Refactoring/ch02.md)
 - [리팩터링](Refactoring/main.md)
 
 ### [Server](#Server)
@@ -182,6 +191,9 @@ _106 TILs and counting..._
 - [Validator](SpringBoot/Validator.md)
 - [WebSecurityConfig](SpringBoot/WebSecurityConfig.md)
 - [Validation](SpringBoot/validation.md)
+
+### [TDD](#TDD)
+- [1장 정리](TDD/ch01.md)
 
 ### [Toby_Spring](#Toby_Spring)
 - [[토비의 스프링 3.1] 스프링 IoC](Toby_Spring/Spring_IoC.md)
