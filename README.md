@@ -10,7 +10,7 @@ _114 TILs and counting..._
 
 ### 2 most recent TILs
 
-- [Spring Boot 프로젝트 CI시, 특정 profile에 h2를 datasource로 지정하여 github action 실행시키기](Git/ci-with-jvm.md) - Sat Mar 26 23:43:11 2022 +0900
+- [Spring Boot 특정 profile에 h2를 datasource로 지정하여 github action 실행시키기](Git/ci-with-jvm.md) - Sat Mar 26 23:43:11 2022 +0900
 - [클로져](Javascript/closure.md) - Sat Mar 26 17:48:32 2022 +0900
 
 ### Categories
@@ -96,7 +96,7 @@ _114 TILs and counting..._
 - [이터러블 / 이터레이터 프로토콜](Functional_Programming/Iterable.md)
 
 ### [Git](#Git)
-- [Spring Boot 프로젝트 CI시, 특정 profile에 h2를 datasource로 지정하여 github action 실행시키기](Git/ci-with-jvm.md)
+- [Spring Boot 특정 profile에 h2를 datasource로 지정하여 github action 실행시키기](Git/ci-with-jvm.md)
 - [Commit author 변경과 config user 관리](Git/config_user.md)
 - [이전 커밋에 포함하지 못한 변경사항 합치기](Git/fix-up.md)
 - [삭제된 commit 복구하기](Git/restore_deleted_commit.md)
