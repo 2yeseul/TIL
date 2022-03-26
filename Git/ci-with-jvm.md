@@ -1,4 +1,4 @@
-# Spring Boot 프로젝트 CI시, 특정 profile에 h2를 datasource로 지정하여 github action 실행시키기
+# Spring Boot 특정 profile에 h2를 datasource로 지정하여 github action 실행시키기
 
 # ./github/workflows/CI.yml
 
