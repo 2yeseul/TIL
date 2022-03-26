@@ -4,14 +4,14 @@
 오늘 배운 것들을 정리하는 곳 ✨
 
 
-_112 TILs and counting..._
+_113 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
-- [1장 정리](TDD/ch01.md) - Wed Mar 23 21:37:59 2022 +0900
-- [평가와 일급](Functional_Programming/Evaluation_First_Class.md) - Wed Mar 23 21:37:59 2022 +0900
+- [클로져](Javascript/closure.md) - Sat Mar 26 17:48:32 2022 +0900
+- [$addToSet](MongoDB/addToSet.md) - Wed Mar 23 21:37:59 2022 +0900
 
 ### Categories
 
@@ -132,6 +132,7 @@ _112 TILs and counting..._
 ### [Javascript](#Javascript)
 - [[코어자바스크립트] 01. 데이터 타입](Javascript/CoreJS_01.md)
 - [[코어자바스크립트] 02.실행 컨텍스트](Javascript/CoreJS_02.md)
+- [클로져](Javascript/closure.md)
 - [Array.prototype.reduce()](Javascript/reduce.md)
 
 ### [Kotlin](#Kotlin)
