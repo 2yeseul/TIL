@@ -4,7 +4,7 @@
 오늘 배운 것들을 정리하는 곳 ✨
 
 
-_114 TILs and counting..._
+_115 TILs and counting..._
 
 ---
 
@@ -134,6 +134,7 @@ _114 TILs and counting..._
 - [[코어자바스크립트] 01. 데이터 타입](Javascript/CoreJS_01.md)
 - [[코어자바스크립트] 02.실행 컨텍스트](Javascript/CoreJS_02.md)
 - [클로져](Javascript/closure.md)
+- [Map to JSON / JSON to Map](Javascript/map_json.md)
 - [Array.prototype.reduce()](Javascript/reduce.md)
 
 ### [Kotlin](#Kotlin)
