@@ -4,7 +4,7 @@
 오늘 배운 것들을 정리하는 곳 ✨
 
 
-_115 TILs and counting..._
+_116 TILs and counting..._
 
 ---
 
@@ -94,6 +94,7 @@ _115 TILs and counting..._
 - [평가와 일급](Functional_Programming/Evaluation_First_Class.md)
 - [고차함수](Functional_Programming/Higher-Order-Function.md)
 - [이터러블 / 이터레이터 프로토콜](Functional_Programming/Iterable.md)
+- [함수형 프로그래밍은 왜 중요한가](Functional_Programming/why-fp-matters.md)
 
 ### [Git](#Git)
 - [Spring Boot 특정 profile에 h2를 datasource로 지정하여 github action 실행시키기](Git/ci-with-jvm.md)
