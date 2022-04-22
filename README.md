@@ -4,14 +4,14 @@
 오늘 배운 것들을 정리하는 곳 ✨
 
 
-_116 TILs and counting..._
+_118 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
-- [Spring Boot 특정 profile에 h2를 datasource로 지정하여 github action 실행시키기](Git/ci-with-jvm.md) - Sat Mar 26 23:43:11 2022 +0900
-- [클로져](Javascript/closure.md) - Sat Mar 26 17:48:32 2022 +0900
+- [[스칼라로 배우는 함수형 프로그래밍] 다형적 함수: 형식에 대한 추상](Functional_Programming/polymorphic-function.md) - Fri Apr 22 22:29:50 2022 +0900
+- [고차함수 - 함수를 함수에 전달](Functional_Programming/higer-order-function.md) - Fri Apr 22 22:29:50 2022 +0900
 
 ### Categories
 
@@ -94,6 +94,8 @@ _116 TILs and counting..._
 - [평가와 일급](Functional_Programming/Evaluation_First_Class.md)
 - [고차함수](Functional_Programming/Higher-Order-Function.md)
 - [이터러블 / 이터레이터 프로토콜](Functional_Programming/Iterable.md)
+- [고차함수 - 함수를 함수에 전달](Functional_Programming/higer-order-function.md)
+- [[스칼라로 배우는 함수형 프로그래밍] 다형적 함수: 형식에 대한 추상](Functional_Programming/polymorphic-function.md)
 - [함수형 프로그래밍은 왜 중요한가](Functional_Programming/why-fp-matters.md)
 
 ### [Git](#Git)
