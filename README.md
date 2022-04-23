@@ -4,13 +4,13 @@
 오늘 배운 것들을 정리하는 곳 ✨
 
 
-_118 TILs and counting..._
+_119 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
-- [[스칼라로 배우는 함수형 프로그래밍] 다형적 함수: 형식에 대한 추상](Functional_Programming/polymorphic-function.md) - Fri Apr 22 22:29:50 2022 +0900
+- [정규식](Etc/regex.md) - Sun Apr 24 00:51:49 2022 +0900
 - [고차함수 - 함수를 함수에 전달](Functional_Programming/higer-order-function.md) - Fri Apr 22 22:29:50 2022 +0900
 
 ### Categories
@@ -89,6 +89,7 @@ _118 TILs and counting..._
 - [동기와 비동기, 블로킹과 논블로킹](Etc/AsyncNonBlocking.md)
 - [Data Structure](Etc/DataStructure.md)
 - [RESTFul API 설계 가이드](Etc/RESTFul.md)
+- [정규식](Etc/regex.md)
 
 ### [Functional_Programming](#Functional_Programming)
 - [평가와 일급](Functional_Programming/Evaluation_First_Class.md)
