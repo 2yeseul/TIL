@@ -4,20 +4,21 @@
 오늘 배운 것들을 정리하는 곳 ✨
 
 
-_119 TILs and counting..._
+_120 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
 - [정규식](Etc/regex.md) - Sun Apr 24 00:51:49 2022 +0900
-- [고차함수 - 함수를 함수에 전달](Functional_Programming/higer-order-function.md) - Fri Apr 22 22:29:50 2022 +0900
+- [[스칼라로 배우는 함수형 프로그래밍] 다형적 함수: 형식에 대한 추상](Functional_Programming/polymorphic-function.md) - Fri Apr 22 22:29:50 2022 +0900
 
 ### Categories
 
 - [Baekjoon](#Baekjoon)
 - [C++](#C++)
 - [CleanCode](#CleanCode)
+- [DB](#DB)
 - [DesignPattern](#DesignPattern)
 - [DevOps](#DevOps)
 - [Docker](#Docker)
@@ -60,6 +61,9 @@ _119 TILs and counting..._
 
 ### [CleanCode](#CleanCode)
 - [Class](CleanCode/Class.md)
+
+### [DB](#DB)
+- [특정 테이블이 존재하는지 확인하는 쿼리](DB/table-exists.md)
 
 ### [DesignPattern](#DesignPattern)
 - [Decorator Pattern](DesignPattern/DecoratorPattern.md)
