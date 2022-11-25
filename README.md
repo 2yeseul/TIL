@@ -4,14 +4,14 @@
 오늘 배운 것들을 정리하는 곳 ✨
 
 
-_120 TILs and counting..._
+_124 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
-- [정규식](Etc/regex.md) - Sun Apr 24 00:51:49 2022 +0900
-- [[스칼라로 배우는 함수형 프로그래밍] 다형적 함수: 형식에 대한 추상](Functional_Programming/polymorphic-function.md) - Fri Apr 22 22:29:50 2022 +0900
+- [함수적 자료구조](Functional_Programming/functional-data-structure.md) - Fri Nov 25 23:30:38 2022 +0900
+- [가상돔](React/react-dom.md) - Fri Nov 25 23:30:38 2022 +0900
 
 ### Categories
 
@@ -94,11 +94,13 @@ _120 TILs and counting..._
 - [Data Structure](Etc/DataStructure.md)
 - [RESTFul API 설계 가이드](Etc/RESTFul.md)
 - [정규식](Etc/regex.md)
+- [Throttling](Etc/throttling.md)
 
 ### [Functional_Programming](#Functional_Programming)
 - [평가와 일급](Functional_Programming/Evaluation_First_Class.md)
 - [고차함수](Functional_Programming/Higher-Order-Function.md)
 - [이터러블 / 이터레이터 프로토콜](Functional_Programming/Iterable.md)
+- [함수적 자료구조](Functional_Programming/functional-data-structure.md)
 - [고차함수 - 함수를 함수에 전달](Functional_Programming/higer-order-function.md)
 - [[스칼라로 배우는 함수형 프로그래밍] 다형적 함수: 형식에 대한 추상](Functional_Programming/polymorphic-function.md)
 - [함수형 프로그래밍은 왜 중요한가](Functional_Programming/why-fp-matters.md)
@@ -177,6 +179,8 @@ _120 TILs and counting..._
 - [리액트 공부 - (1)](React/base.md)
 - [Component와 Props](React/component_props.md)
 - [formik](React/formik.md)
+- [가상돔](React/react-dom.md)
+- [React State](React/react-state.md)
 
 ### [Refactoring](#Refactoring)
 - [리팩터링: 첫 번째 예시](Refactoring/ch01.md)
