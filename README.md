@@ -4,14 +4,14 @@
 오늘 배운 것들을 정리하는 곳 ✨
 
 
-_124 TILs and counting..._
+_125 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [2022 회고](Etc/2022-retrospect.md) - Wed Jan 11 23:20:30 2023 +0900
 - [함수적 자료구조](Functional_Programming/functional-data-structure.md) - Fri Nov 25 23:30:38 2022 +0900
-- [가상돔](React/react-dom.md) - Fri Nov 25 23:30:38 2022 +0900
 
 ### Categories
 
@@ -89,6 +89,7 @@ _124 TILs and counting..._
 - [Effective Java](EffectiveJava/main.md)
 
 ### [Etc](#Etc)
+- [2022 회고](Etc/2022-retrospect.md)
 - [AmazonS3BeanError](Etc/AmazonS3BeanError.md)
 - [동기와 비동기, 블로킹과 논블로킹](Etc/AsyncNonBlocking.md)
 - [Data Structure](Etc/DataStructure.md)
