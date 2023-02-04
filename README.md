@@ -4,14 +4,14 @@
 오늘 배운 것들을 정리하는 곳 ✨
 
 
-_125 TILs and counting..._
+_127 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
 - [2022 회고](Etc/2022-retrospect.md) - Wed Jan 11 23:20:30 2023 +0900
-- [함수적 자료구조](Functional_Programming/functional-data-structure.md) - Fri Nov 25 23:30:38 2022 +0900
+- [React State](React/react-state.md) - Fri Nov 25 23:30:38 2022 +0900
 
 ### Categories
 
@@ -19,6 +19,7 @@ _125 TILs and counting..._
 - [C++](#C++)
 - [CleanCode](#CleanCode)
 - [DB](#DB)
+- [DDD](#DDD)
 - [DesignPattern](#DesignPattern)
 - [DevOps](#DevOps)
 - [Docker](#Docker)
@@ -64,6 +65,10 @@ _125 TILs and counting..._
 
 ### [DB](#DB)
 - [특정 테이블이 존재하는지 확인하는 쿼리](DB/table-exists.md)
+
+### [DDD](#DDD)
+- [[도메인 주도 설계 핵심] 1장 정리](DDD/DDDD-ch01.md)
+- [[도메인 주도 설계 핵심] 2장 - 바운디드 컨텍스트 및 보편언어와 전략적 설계](DDD/DDDD-ch02.md)
 
 ### [DesignPattern](#DesignPattern)
 - [Decorator Pattern](DesignPattern/DecoratorPattern.md)
